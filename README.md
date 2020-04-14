@@ -1,2 +1,5 @@
-# todo-list
-This is my first project.
+# TODO list 
+A simple app to manage your daily tasks 
+
+## Features 
+* List of daily tasks
